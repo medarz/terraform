@@ -1,0 +1,7 @@
+region          = "us-central1"
+zone            = "us-central1-a"
+gcp_project     = "main-testing"
+credentials     = "credentials.json"
+name            = "test"
+machine_type    = "g1-small"
+image           = "ubuntu-1804-lts"
